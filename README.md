@@ -1,4 +1,4 @@
-# **Suggestions for as sucessful movie**
+# **Suggestions for a Sucessful Movie**
 
 ## **Overview**
 This project analyzes the **Top 100 IMDb movies** spanning two decades (2003–2022). Using Python and data analytics, we aim to uncover insights that can guide filmmakers and studios to create successful and impactful movies.
